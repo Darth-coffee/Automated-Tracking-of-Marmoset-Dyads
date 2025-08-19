@@ -1,0 +1,6 @@
+train: C:/Users/PS_22_2/Desktop/dataset_new_copy/images/train
+val: C:/Users/PS_22_2/Desktop/dataset_new_copy/images/val
+test: C:/Users/PS_22_2/Desktop/dataset_new_copy/images/test
+
+nc: 1
+names: ['marmoset']
