@@ -84,9 +84,9 @@ Generate annotated videos, CSV files, and synchrony plots.
       
     - **trim**: leaves only first 30 sec of video
       
-    - **stitch_dir.bat** running this with create the stitched output folder form the cam10 and cam11 folders
+    - **stitch_dir.bat** running this will create the stitched output in a new folder from the cam10 and cam11 folders (with specific rotations etc)
       
-    - **align_videos_rotate.bat**: for stitching one pair
+    
 
    
      
