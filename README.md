@@ -65,7 +65,7 @@ Compute inter-individual distance over time.
 
 Generate annotated videos, CSV files, and synchrony plots.
   
-### The folder DeepSORT_ML2025 contains the following:  
+### This repository contains the following:  
   
       
 1. **yolo_project** - Has trained yolo models and data.yaml
