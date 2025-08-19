@@ -79,8 +79,6 @@ Generate annotated videos, CSV files, and synchrony plots.
         - **label_yolo.ipynb**: To label images for YOLO training (bounding boxes) using labelImg
         - **SIPEC_yolo.ipynb**: All codes to make SIPEC dataset usable for YOLO training. NOTE: Also has certain codes for removing unmatched images/labels, and also to create train, test, val split
         - **sorting_vids.ipynb**: To make custom directories like those for different camera views.
-        - **yolo_sort.ipynb**: Every other thing I've tried in all parts of the project.
-    - **videos**: Random outputs of various scripts
       
     - **sort, cvat and labelImg**: Software folders with their source codes
       
