@@ -43,7 +43,7 @@ Using the YOLO+SORT bounding boxes, we generate masked videos that highlight onl
 
 These videos are then fed into DeepLabCut (DLC) for fine-grained body part tracking.
 
-This ensures DLC does not waste computation on irrelevant background pixels.
+This ensures DLC recieves only one marmoset per frames, thereby eliminating the ID switch problem.
 
 5. Identity correction
 
