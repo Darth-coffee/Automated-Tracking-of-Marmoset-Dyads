@@ -80,7 +80,7 @@ Generate annotated videos, CSV files, and synchrony plots.
         - **SIPEC_yolo.ipynb**: All codes to make SIPEC dataset usable for YOLO training. NOTE: Also has certain codes for removing unmatched images/labels, and also to create train, test, val split
         - **sorting_vids.ipynb**: To make custom directories like those for different camera views.
       
-    - **sort, cvat and labelImg**: Software folders with their source codes
+    - **sort**: Software folder with source codes
       
     - **trim**: leaves only first 30 sec of video
       
