@@ -68,7 +68,7 @@ Generate annotated videos, CSV files, and synchrony plots.
 ### This repository contains the following:  
   
       
-1. **yolo_project** - Has trained yolo models and data.yaml
+1. **YOLO_training** - Has trained yolo models and data.yaml
   
 3. **Scripts**
     - **final_scripts.ipynb**: The entire pipeline including tracking with YOLO+SORT on stitched cam 10 and cam11 videos, correcting ID switch manually, tracking cam15 and cam18 with guide, cubic spline interpolation of centres of bounding boxes, triangulation + distance calculation + plots
